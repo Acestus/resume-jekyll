@@ -1,0 +1,25 @@
+<!-- filepath: /home/acestus/git/resume-jekyll/assets/css/custom.scss -->
+---
+---
+/* Force line separators */
+.yui-gf {
+  border-bottom: 1px solid #ccc !important;
+  margin-bottom: 2em !important;
+  padding-bottom: 2em !important;
+}
+
+#hd {
+  border-bottom: 1px solid #ccc !important;
+}
+
+#ft {
+  border-top: 1px solid #ccc !important;
+}
+
+.job {
+  border-bottom: 1px solid #ccc !important;
+}
+
+.job.last, .yui-gf.last {
+  border-bottom: none !important;
+}
