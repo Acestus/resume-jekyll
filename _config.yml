@@ -1,0 +1,14 @@
+# Site settings
+title: William Weeks-Balconi | Site Reliability Engineer
+email: william.azure@acestus.com
+description: >-
+  Resume for William Weeks-Balconi, Site Reliability Engineer
+baseurl: ""
+url: ""
+linkedin_username: acestus
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

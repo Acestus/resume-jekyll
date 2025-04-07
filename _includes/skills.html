@@ -1,0 +1,14 @@
+<div class="yui-gf">
+    <div class="yui-u first">
+      <h2>Skills</h2>
+    </div>
+    <div class="yui-u">
+      {% for skill in site.data.resume.skills %}
+      <div class="talent1">
+        <br />
+        <h2>{{ skill.category }}</h2>
+        <p>{{ skill.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>

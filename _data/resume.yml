@@ -1,0 +1,76 @@
+basics:
+  name: "William Weeks-Balconi"
+  title: "Site Reliability Engineer"
+  email: "william.azure@acestus.com"
+  phone: "(817) - 808-8059"
+  linkedin: "linkedin.com/in/acestus/"
+  pdf: "https://resumeazure.blob.core.windows.net/resume-azure/ResumeAzure17.pdf"
+  summary: "I manage Azure environments with a Linux tech stack. I am a Site Reliability Engineer with 5+ years experience in enterprise security software, IT automation, network security, and cloud services. Searching for an opportunity to safeguard critical functions, as a dedicated problem solver. I am passionate about functional programming and thinking outside the box."
+
+skills:
+  - category: "Cloud Native Deployment"
+    description: "Build and deploy Kubernetes for Azure and Google Cloud"
+  - category: "Network Admin"
+    description: "Configure Network Routers and Firewalls with Infrastructure as Code"
+  - category: "Security and Backups"
+    description: "Deploy backup solutions, disaster recovery, RBAC, SIEM, and Entra Administration, FedRAMP Compliance"
+
+certifications:
+  - "CKA"
+  - "DP-900"
+  - "AZ-104"
+  - "Server+"
+  - "CCNA"
+  - "AZ-305"
+  - "AZ-500"
+
+experience:
+  - company: "Reprise Financial"
+    position: "Cloud Infrastructure Engineer"
+    period: "Jun 2024 - Present"
+    duties:
+      - "Optimize Billing and Cost Management for cloud services"
+      - "Build analytic relational databases"
+      - "Write Infrastructure-as-Code with CI/CD Pipelines"
+      - "Support Kubernetes and Cloud Native Apps"
+      - "Maintain FedRAMP Compliance with SIEM by coordinating with stakeholders"
+      - "Write automation scripts with technical documentation and videos"
+    skills: "Infrastructure as Code (IaC), Linux System Administration, Python, Relational Databases, FedRAMP"
+  
+  - company: "Beretta Holdings"
+    position: "Senior Azure Architect"
+    period: "12/2023 - 04/2024"
+    duties:
+      - "(SME) Subject Matter Expert for Azure, Microsoft 365, and Microsoft Sentinel"
+      - "Deployed Managed Kubernetes Service (AKS)"
+      - "Migrated On-Prem Servers to Azure as Web Apps, containers, and virtual servers"
+      - "Deployed Reverse Proxies and Load Balancers in Azure"
+      - "Maintained high Secure Score in Azure and Entra"
+      - "Designed and Deployed subnets and VNETS"
+      - "Provisioned Azure resources using ARM templates and Bicep"
+      - "Implemented IAM solution- Entra ID. Setup the MFA, PIM, and RBAC roles for users"
+      - "Deployed cloud resources using Azure Devops and the CI/CD pipeline"
+      - "Setup Site-to-Site VPN and managed Azure Firewall Policy"
+      - "Architect and design networks"
+  
+  - company: "Microsoft"
+    position: "Cloud Engineer"
+    period: "7/2022 - 12/2023"
+    duties:
+      - "Supported Azure Kubernetes Service (AKS)"
+      - "Created custom runbooks using Powershell scripts for Logic Apps and Azure Automation"
+      - "Assisted enterprise deploy solutions in Azure Monitoring"
+      - "Deployed Azure Front Door profiles for CDN capabilities" 
+      - "Associated Network Security Groups to Azure Virtual Networks"
+      - "Created custom Kusto queries for Azure Log Analytics"
+      - "Deployed and managed AMA and MMA agents"
+      - "Monitored networks with Azure Sentinel"
+      - "Worked with RHEL and Ubuntu servers"
+      - "Programmed with PowerShell, Python, and C#"
+
+# Continue with remaining experience entries...
+
+education:
+  institution: "Austin College - Sherman, Texas"
+  degrees: "BS in Computer Science and BA in History, 2009"
+  details: "Coursework included Computer Science, Programming, Scripting, entrepreneurship, organic chemistry, anatomy & physiology, Spanish, calculus, theology, archival research, psychology. Worked on a research team to write a history book on the university."
